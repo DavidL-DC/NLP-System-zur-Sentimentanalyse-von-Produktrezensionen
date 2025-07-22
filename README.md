@@ -1,1 +1,2 @@
 # NLP-System-zur-Sentimentanalyse-von-Produktrezensionen
+Dieser Code dient dem Projektbericht im Kurs NLP und beinhaltet den Code zur Datenerhebung, Datenvorverarbeitung sowie des Modells. Die verwendeten Datensätze (Automotive, Pet_Supplies und Video_Games) können über https://amazon-reviews-2023.github.io/ heruntergeladen werden und sind im jsonl.gz-Format im gleichen Ordner wie die Code-Files abzulegen.
